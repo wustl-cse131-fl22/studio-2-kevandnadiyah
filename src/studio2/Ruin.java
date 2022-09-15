@@ -52,7 +52,6 @@ public class Ruin {
 		if (currentMoney == 0)
 		{
 			System.out.println("Ruin");
-			
 			System.out.println("Day: "+totalSimulations2++);
 			System.out.println("Number of Plays: "+numberPlays++);
 			System.out.println("Number of Wins: "+numberWins++);
@@ -61,7 +60,6 @@ public class Ruin {
 		if (currentMoney == winLimit)
 		{
 			System.out.println("Success");
-			
 			System.out.println("Total Simulations: "+totalSimulations2++);
 			System.out.println("Number of Plays: "+numberPlays++);
 			System.out.println("Number of Wins: "+numberWins++);
