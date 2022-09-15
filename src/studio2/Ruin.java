@@ -47,7 +47,6 @@ public class Ruin {
 			numberPlays++;
 			numberLoss++;
 			}
-			
 		}
 		if (currentMoney == 0)
 		{
